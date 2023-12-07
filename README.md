@@ -1,5 +1,5 @@
 ## Hello, Devs!! 👋
-### My name is João Pedro, welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="200px" max-width="200px" width="200px" align="right">
+### My name is João Pedro, welcome to my GitHub profile. 
 
 - ⚡ Passionate about technology and science
 - 🧠 Software Developer with over 3 years of experience
